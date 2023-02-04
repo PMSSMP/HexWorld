@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 826a22be627e4277a6a94f4a01a60247, type: 3}
+  m_Name: Lala_Land
+  m_EditorClassIdentifier: 
+  HexCellPrefab: {fileID: 2508742836683435073, guid: 794dc7f79992b3246b3c12d4ace97394,
+    type: 3}
